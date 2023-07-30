@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielpemberton
 - 👀 I’m interested in building applications that streamline business processes.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects that will help expand my coding skills.
 - 📫 You can reach me via my email:  daniel.pemberton96@gmail.com
 
